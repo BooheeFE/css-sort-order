@@ -1,0 +1,13 @@
+{
+  "name": "css-sort-order",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/BooheeFE/css-sort-order",
+  "author": "simbawu <connect@simbawu.com>",
+  "description": "CSS sort order for Boohee FE team",
+  "keywords": [
+    "css",
+    "css-sort",
+  ],
+  "license": "MIT"
+}
